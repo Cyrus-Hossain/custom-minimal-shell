@@ -1,0 +1,8 @@
+*.o
+myshell
+*.exe
+vgcore.*
+core
+.DS_Store
+*.swp
+*.swo
