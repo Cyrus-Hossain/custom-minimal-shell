@@ -1,6 +1,4 @@
-# Minimal Shell
-
-Industry-level C shell for university assignment.
+# Custom Minimal Shell
 
 ## Features Supported
 - External commands via execvp
